@@ -1,0 +1,37 @@
+body{
+    background-color: grey;
+}
+.save_div{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.input{
+    width: 120%;
+    margin-bottom: 10px;
+    height: 25px;
+}
+.save{
+    width: 60%;
+    margin-bottom: 10px;
+    height: 30px;
+    margin-left: 30%;
+}
+.save:hover{
+    background-color: darkolivegreen;
+    color: red;
+    border-radius: 5px;
+}
+.vlink{
+    width: 50%;
+    margin-left: 110px;
+    margin-right: 55px;
+    text-decoration: none
+}
+.adlink{
+    float: right;
+}
+.mdttl{
+    color: black;
+}
